@@ -10,7 +10,7 @@ It is recommended to create a new environment. In this example we use conda (it 
 
 The files required for it are in:
 https://drive.google.com/drive/folders/1MzppCM60UBRjTAZ5jBm32Pfo0if21YmX?usp=sharing. Download them and place them in the `pretrained` directory. 
-The files are
+These are:
 - `deeptrust_classifier.pkl`: InspectRF pickle file
 - `deeptrust_classifier.pth`: TrustNet and GuardNet weights
 - `deeptrust_vectorizer.pkl`: DeepTrust vectorizer
